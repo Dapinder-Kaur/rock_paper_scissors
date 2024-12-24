@@ -1,2 +1,2 @@
 # rock_paper_scissors
-A rock paper scissor game design
+A rock_paper_scissors game designed on a webpage, using HTML, CSS and javascript. The game is based on a fact that Computers generate random numbers and that numbers can be used to make different choices. And then, some variables store those values along with the values based on the choices made by you. Finally you can decide if you or the computer wins by comparing those value counts after a certain  number of attempts.
